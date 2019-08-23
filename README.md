@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [测试](http://hengheng.tech:8080/articles/2019/08/22/1566452448899.html)
 * [世界，你好！](http://hengheng.tech:8080/hello-solo)
 
 
