@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [世界，你好！](http://hengheng.tech:8080/hello-solo)
+* [世界，你好！](http://hengheng.tech/hello-solo)
 
 
 
